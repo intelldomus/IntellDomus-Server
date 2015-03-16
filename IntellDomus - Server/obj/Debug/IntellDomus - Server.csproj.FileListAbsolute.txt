@@ -1,0 +1,13 @@
+c:\users\simone\documents\visual studio 2013\Projects\IntellDomus - Server\IntellDomus - Server\bin\Debug\IntellDomus - Server.exe.config
+c:\users\simone\documents\visual studio 2013\Projects\IntellDomus - Server\IntellDomus - Server\bin\Debug\IntellDomus - Server.exe
+c:\users\simone\documents\visual studio 2013\Projects\IntellDomus - Server\IntellDomus - Server\bin\Debug\IntellDomus - Server.pdb
+c:\users\simone\documents\visual studio 2013\Projects\IntellDomus - Server\IntellDomus - Server\obj\Debug\IntellDomus - Server.csprojResolveAssemblyReference.cache
+c:\users\simone\documents\visual studio 2013\Projects\IntellDomus - Server\IntellDomus - Server\obj\Debug\MainWindow.baml
+c:\users\simone\documents\visual studio 2013\Projects\IntellDomus - Server\IntellDomus - Server\obj\Debug\MainWindow.g.cs
+c:\users\simone\documents\visual studio 2013\Projects\IntellDomus - Server\IntellDomus - Server\obj\Debug\App.g.cs
+c:\users\simone\documents\visual studio 2013\Projects\IntellDomus - Server\IntellDomus - Server\obj\Debug\IntellDomus - Server_MarkupCompile.cache
+c:\users\simone\documents\visual studio 2013\Projects\IntellDomus - Server\IntellDomus - Server\obj\Debug\IntellDomus - Server.g.resources
+c:\users\simone\documents\visual studio 2013\Projects\IntellDomus - Server\IntellDomus - Server\obj\Debug\IntellDomus___Server.Properties.Resources.resources
+c:\users\simone\documents\visual studio 2013\Projects\IntellDomus - Server\IntellDomus - Server\obj\Debug\IntellDomus - Server.csproj.GenerateResource.Cache
+c:\users\simone\documents\visual studio 2013\Projects\IntellDomus - Server\IntellDomus - Server\obj\Debug\IntellDomus - Server.exe
+c:\users\simone\documents\visual studio 2013\Projects\IntellDomus - Server\IntellDomus - Server\obj\Debug\IntellDomus - Server.pdb
