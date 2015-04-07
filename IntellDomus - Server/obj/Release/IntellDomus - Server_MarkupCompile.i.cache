@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\obj\Debug\
+C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\obj\Release\
 IntellDomus___Server
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\App.xaml
 11151548125
 
-7-1193042016
-161646014572
+112105690466
+161200111868
 MainWindow.xaml;
 
 False

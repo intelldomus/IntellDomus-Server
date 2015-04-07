@@ -1,0 +1,17 @@
+C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\bin\Release\IntellDomus - Server.exe.config
+C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\bin\Release\IntellDomus - Server.exe
+C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\bin\Release\IntellDomus - Server.pdb
+C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\obj\Release\IntellDomus - Server.csprojResolveAssemblyReference.cache
+C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\obj\Release\MainWindow.baml
+C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\obj\Release\MainWindow.g.cs
+C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\obj\Release\App.g.cs
+C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\obj\Release\IntellDomus - Server_MarkupCompile.cache
+C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\obj\Release\IntellDomus - Server.g.resources
+C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\obj\Release\IntellDomus___Server.Properties.Resources.resources
+C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\obj\Release\IntellDomus - Server.csproj.GenerateResource.Cache
+C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\obj\Release\IntellDomus - Server.exe
+C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\obj\Release\IntellDomus - Server.pdb
+C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\bin\Release\Emgu.CV.dll
+C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\bin\Release\Emgu.Util.dll
+C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\bin\Release\Emgu.CV.xml
+C:\Users\Simone\Documents\Visual Studio 2013\Projects\IntellDomus Server\IntellDomus - Server\bin\Release\Emgu.Util.xml
